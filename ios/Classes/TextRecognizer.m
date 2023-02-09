@@ -4,6 +4,7 @@
 
 #import "FLTGoogleMlVisionPlugin.h"
 
+@import MLKitTextRecognitionCommon;
 @import MLKitTextRecognition;
 
 @interface TextRecognizer ()
